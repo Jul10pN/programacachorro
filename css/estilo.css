@@ -2,6 +2,7 @@
 	width: 8em;
 	margin-top: 400px;
 	margin-left: 100px;
+
 }
 
 #casa {
@@ -16,3 +17,25 @@
 	display: block;
 	margin-top: 2em;
 }
+body {
+	background-color: gainsboro;
+
+
+}
+h1{
+	color: gray;
+	text-align: center;
+
+}
+#h21{
+	color: gray;
+	text-align: center;
+	
+	
+}
+#h22{
+	color: gray;
+	text-align: center;
+
+}
+
